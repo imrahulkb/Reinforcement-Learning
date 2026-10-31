@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="200" viewBox="0 0 120 120">
+  <!-- Semicircle (top) -->
+  <path d="M20 50 A30 30 0 0 1 80 50 Z" fill="#4fc3f7" stroke="#222" stroke-width="2"/>
+
+  <!-- Square (bottom) -->
+  <rect x="20" y="50" width="60" height="60" fill="#4fc3f7" stroke="#222" stroke-width="2"/>
+
+  <!-- L-shaped gun (right side) -->
+  <polygon points="80,60 110,60 110,70 92,70 92,95 80,95"
+           fill="#555" stroke="#222" stroke-width="2" stroke-linejoin="round"/>
+</svg>

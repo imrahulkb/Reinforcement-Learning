@@ -1,0 +1,26 @@
+{
+  "name": "rl-hitter",
+  "version": "1.0.0",
+  "description": "Reinforcement Learning project to demonstrate learning of agents to shoot right target",
+  "homepage": "https://github.com/imrahulkb/Reinforcement-Learning#readme",
+  "bugs": {
+    "url": "https://github.com/imrahulkb/Reinforcement-Learning/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/imrahulkb/Reinforcement-Learning.git"
+  },
+  "license": "ISC",
+  "author": "imrahulkb",
+  "type": "module",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@tensorflow/tfjs": "^4.22.0"
+  }
+}

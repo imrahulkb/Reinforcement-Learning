@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="80" viewBox="0 0 200 80">
+  <!-- Casing (brass base) -->
+  <rect x="20" y="22" width="90" height="36" rx="3" fill="#c9a227" stroke="#222" stroke-width="2"/>
+
+  <!-- Rim -->
+  <rect x="12" y="20" width="10" height="40" rx="2" fill="#d4af37" stroke="#222" stroke-width="2"/>
+
+  <!-- Neck (taper from casing to bullet) -->
+  <path d="M110 22 L130 28 L130 52 L110 58 Z" fill="#b08d26" stroke="#222" stroke-width="2" stroke-linejoin="round"/>
+
+  <!-- Bullet tip (copper jacket with rounded nose) -->
+  <path d="M130 28 L160 32 Q186 40 160 48 L130 52 Z" fill="#b87333" stroke="#222" stroke-width="2" stroke-linejoin="round"/>
+
+  <!-- Highlight -->
+  <line x1="40" y1="28" x2="100" y2="28" stroke="#fff" stroke-opacity="0.35" stroke-width="3" stroke-linecap="round"/>
+</svg>

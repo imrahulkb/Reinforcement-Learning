@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="200" viewBox="0 0 200 200">
+  <!-- Impact core -->
+  <circle cx="100" cy="100" r="6" fill="#fff"/>
+
+  <!-- Shards -->
+  <polygon points="100,100 112,72 120,78 108,96" fill="#e0e0e0" stroke="#999" stroke-width="1"/>
+  <polygon points="100,100 135,88 132,98 106,106" fill="#bdbdbd" stroke="#888" stroke-width="1"/>
+  <polygon points="100,100 128,128 136,120 110,104" fill="#d6d6d6" stroke="#999" stroke-width="1"/>
+  <polygon points="100,100 96,132 104,136 106,108" fill="#cfcfcf" stroke="#888" stroke-width="1"/>
+  <polygon points="100,100 66,122 70,130 98,110" fill="#e6e6e6" stroke="#999" stroke-width="1"/>
+  <polygon points="100,100 68,90 66,80 94,94" fill="#b0b0b0" stroke="#888" stroke-width="1"/>
+  <polygon points="100,100 74,64 82,60 102,92" fill="#f0f0f0" stroke="#999" stroke-width="1"/>
+
+  <!-- Outer fragments -->
+  <polygon points="122,64 140,58 142,66 126,72" fill="#9e9e9e" opacity="0.8"/>
+  <polygon points="144,112 158,108 156,118 146,120" fill="#bdbdbd" opacity="0.7"/>
+  <polygon points="118,140 128,150 120,156 112,146" fill="#9e9e9e" opacity="0.8"/>
+  <polygon points="80,146 70,154 64,146 76,138" fill="#bdbdbd" opacity="0.7"/>
+  <polygon points="56,100 44,96 46,106" fill="#9e9e9e" opacity="0.8"/>
+  <polygon points="60,74 50,62 56,58" fill="#bdbdbd" opacity="0.6"/>
+
+  <!-- Tiny debris -->
+  <rect x="140" y="80" width="3" height="3" fill="#eee" transform="rotate(30 141 81)"/>
+  <rect x="58" y="120" width="3" height="3" fill="#eee" transform="rotate(-20 59 121)"/>
+  <rect x="112" y="54" width="2" height="2" fill="#fff" transform="rotate(45 113 55)"/>
+  <rect x="86" y="152" width="2" height="2" fill="#fff" transform="rotate(15 87 153)"/>
+</svg>
